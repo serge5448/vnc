@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rdr", "rdr.vcxproj", "{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Unicode|Win32 = Debug Unicode|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Debug Unicode|Win32.ActiveCfg = Debug Unicode|Win32
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Debug Unicode|Win32.Build.0 = Debug Unicode|Win32
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Debug|Win32.Build.0 = Debug|Win32
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Release|Win32.ActiveCfg = Release|Win32
+		{FDBEB954-68A3-5E00-2CF6-403D1FB5E874}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
